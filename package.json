@@ -1,0 +1,22 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "A multipurpose Discord bot built on DJSv14 focused on automation and AI.",
+  "main": "dex.io",
+  "scripts": {
+    "test": "nodemon -e js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itstylerrr/Dex.git"
+  },
+  "author": "Greezy Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itstylerrr/Dex/issues"
+  },
+  "homepage": "https://github.com/itstylerrr/Dex#readme",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  }
+}
